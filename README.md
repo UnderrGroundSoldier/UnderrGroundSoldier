@@ -69,9 +69,7 @@ Other
 Support
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/eshezz"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/eshezz" /></a></p><br><br>
-
-
+<p><a href="https://www.buymeacoffee.com/eshezz"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=eshezz&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a></p><br><br>
 
 
 
